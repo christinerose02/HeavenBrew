@@ -1,0 +1,551 @@
+# Copyright (C) 2025 Heaven Brew Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Heaven Brew 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/heaven-brew\n"
+"POT-Creation-Date: 2025-04-03T11:12:57.000Z\n"
+"PO-Revision-Date: 2025-04-04 20:08+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: heaven-brew\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Home"
+msgstr "홈"
+
+msgid "Menu"
+msgstr "메뉴"
+
+msgid "Account"
+msgstr "계좌"
+
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "무단 전재 금지."
+
+msgid "Privacy Policy"
+msgstr "개인정보 보호정책"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgctxt "Theme Name"
+msgid "Heaven Brew"
+msgstr "헤븐 브루"
+
+msgctxt "Theme Description"
+msgid "A coffee-inspired WordPress theme for cafes and coffee shops"
+msgstr "카페와 커피숍을 위한 커피에서 영감을 받은 워드프레스 테마"
+
+msgid "Welcome to Heaven Brew"
+msgstr "웰컴 투 헤븐 브루"
+
+msgid "Enjoy the best coffee experience"
+msgstr "최고의 커피 경험을 즐기세요"
+
+msgid "Explore Menu"
+msgstr "탐색 메뉴"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Coffee Selection Section
+msgid "Our Coffee Selection"
+msgstr "저희 커피 셀렉션"
+
+msgid "Espresso"
+msgstr "에스프레소"
+
+msgid ""
+"A strong, rich coffee brewed by forcing hot water through finely-ground "
+"coffee beans."
+msgstr "곱게 갈아낸 커피 원두에 뜨거운 물을 강제로 넣어 만든 강하고 진한 커피."
+
+msgid "Cappuccino"
+msgstr "카푸치노"
+
+msgid ""
+"A perfect balance of espresso, steamed milk, and foam for a smooth and "
+"creamy taste."
+msgstr ""
+"에스프레소, 찐 우유, 거품의 완벽한 균형이 부드럽고 크리미한 맛을 선사합니다."
+
+msgid "Latte"
+msgstr "라떼"
+
+msgid ""
+"A comforting blend of espresso and steamed milk with a light layer of foam "
+"on top."
+msgstr "에스프레소와 찐 우유의 편안한 블렌딩에 가벼운 거품을 얹었습니다."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "About Us"
+msgstr "우리에 대해"
+
+msgid ""
+"At Brew Haven, we bring you the finest coffee sourced from around the world. "
+"Our expert baristas craft each cup with precision and passion to give you "
+"the best coffee experience."
+msgstr ""
+"브루 헤이븐에서는 전 세계에서 공급되는 최고의 커피를 제공합니다. 저희 전문 바"
+"리스타들은 최고의 커피 경험을 선사하기 위해 각 컵을 정밀하고 열정적으로 제작"
+"합니다."
+
+msgid "Visit us and savor the art of coffee in a warm, inviting atmosphere."
+msgstr "따뜻하고 매력적인 분위기에서 커피의 예술을 감상해 보세요."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Coffee Selection Section
+msgid "Our Top Coffee Selections"
+msgstr "최고의 커피 선택"
+
+msgid "A strong, concentrated shot of coffee with aromatic flavor."
+msgstr "향긋한 향이 나는 강력하고 농축된 커피 한 잔."
+
+msgid "Drip Coffee"
+msgstr "드립 커피"
+
+msgid "A smooth, slow-brewed coffee with a balanced flavor."
+msgstr "부드럽고 천천히 양조된 커피로 균형 잡힌 풍미를 자랑합니다."
+
+msgid "Iced Cappuccino"
+msgstr "아이스 카푸치노"
+
+msgid "A bold espresso with chilled milk and a frothy, airy top."
+msgstr "차가운 우유와 거품이 나는 윗부분을 가진 대담한 에스프레소."
+
+msgid "View Menu"
+msgstr "보기 메뉴"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Best Haven Section
+msgid "🌟 Best – Heaven Brew at Your Doorstep!"
+msgstr "🌟 베스트 – 문앞에서 천국의 양조장!"
+
+msgid "🚀 10-Minute Coffee, Now!"
+msgstr "🚀 10분 커피, 지금 바로!"
+
+msgid ""
+"Craving a fresh brew? Get your favorite coffee delivered to your doorstep in "
+"just minutes!"
+msgstr ""
+"신선한 맥주를 원하시나요? 좋아하는 커피를 단 몇 분 만에 집 앞까지 배달해 보세"
+"요!"
+
+msgid "💰 Best Prices & Offers"
+msgstr "💰 최고의 가격 및 혜택"
+
+msgid ""
+"Enjoy premium coffee at the best prices, plus exclusive discounts and "
+"cashback deals."
+msgstr ""
+"프리미엄 커피를 최고의 가격에 즐기세요. 또한, 독점 할인과 캐시백 혜택도 제공"
+"합니다."
+
+msgid "🌟 Wide Selection"
+msgstr "🌟 와이드 셀렉션"
+
+msgid ""
+"Explore a variety of handcrafted coffees, teas, pastries, and more—crafted "
+"to perfection."
+msgstr "완벽하게 제작된 다양한 수제 커피, 차, 페이스트리 등을 둘러보세요."
+
+msgid "🔄 Easy Returns"
+msgstr "🔄 쉬운 반품"
+
+msgid ""
+"Not satisfied? Get a hassle-free refund or replacement, no questions asked!"
+msgstr ""
+"만족스럽지 않으신가요? 번거롭지 않게 환불이나 교환을 받으세요. 질문 없이!"
+
+msgid "☕ Freshly Brewed Every Time"
+msgstr "☕ 매번 갓 양조한"
+
+msgid ""
+"We ensure every cup is made fresh upon order, giving you the perfect taste "
+"and aroma in every sip."
+msgstr ""
+"주문 시 모든 컵을 신선하게 만들어 한 모금 마실 때마다 완벽한 맛과 향을 선사합"
+"니다."
+
+msgid "📍 Available Near You"
+msgstr "가까운 곳에서 📍 이용 가능"
+
+msgid ""
+"With multiple locations, we guarantee fast delivery and the freshest "
+"ingredients straight to your cup!"
+msgstr "여러 장소에서 빠른 배송과 컵에 바로 신선한 재료를 제공합니다!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Stay Updated with Our Latest Coffee Blends!"
+msgstr "최신 커피 믹스를 함께 업데이트하십시오!"
+
+msgid ""
+"Subscribe to our newsletter and never miss an update on our special brews, "
+"offers, and more."
+msgstr ""
+"뉴스레터를 구독하고 특별한 양조장, 혜택 등에 대한 업데이트를 놓치지 마세요."
+
+msgid "Enter your email"
+msgstr "이메일 입력"
+
+msgid "Subscribe"
+msgstr "구독"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+msgid "Get in Touch"
+msgstr "연락하기"
+
+msgid ""
+"Have any questions? Reach out to us through our contact page or visit us at "
+"our nearest outlet."
+msgstr ""
+"궁금한 점이 있으신가요? 연락처 페이지를 통해 문의하시거나 가까운 아울렛으로 "
+"방문해 주세요."
+
+msgid "Our Location"
+msgstr "우리 위치"
+
+msgid "123 Coffee Street, Brewtown"
+msgstr ""
+
+msgid "Call Us"
+msgstr "콜 어스"
+
+msgid "+1 234 567 890"
+msgstr ""
+
+msgid "Email Us"
+msgstr "이메일 보내주세요"
+
+msgid "contact@brewhaven.com"
+msgstr ""
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. MENU PAGE
+#. --------------------------------------||
+msgid "Our Menu"
+msgstr "메뉴"
+
+#. ---------------------------------------
+#. Menu Categories
+msgid "All"
+msgstr "모든"
+
+msgid "Espresso-Based Coffees"
+msgstr "에스프레소 기반 커피"
+
+msgid "Brewed & Specialty Coffees"
+msgstr "양조 및 스페셜티 커피"
+
+msgid "Iced Coffees & Variations"
+msgstr "아이스 커피 & 변형"
+
+msgid "Flavored & Specialty Lattes"
+msgstr "맛 & 스페셜티 라떼"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Menu Cards
+msgid "A strong, concentrated shot of coffee."
+msgstr "강력하고 농축된 커피 한 잔."
+
+msgid "Doppio"
+msgstr "도피오"
+
+msgid "A bold, double shot of espresso."
+msgstr "대담하고 더블 샷의 에스프레소."
+
+msgid "Ristretto"
+msgstr "리스트레토"
+
+msgid "A strong, concentrated shot with a richer, bolder flavor."
+msgstr "더 풍부하고 대담한 맛의 강력하고 농축된 샷."
+
+msgid "Lungo"
+msgstr "룽고"
+
+msgid "A smooth, extended shot with a milder, aromatic taste."
+msgstr "부드럽고 향긋한 맛이 나는 부드럽고 확장된 샷."
+
+msgid "A rich with velvety steamed milk and a airy foam layer."
+msgstr "벨벳 같은 찐 우유와 통풍이 잘되는 거품층이 풍부한 제품입니다."
+
+msgid "Cortado"
+msgstr "코르타도"
+
+msgid "A bold espresso softened with warm milk."
+msgstr "따뜻한 우유로 부드러워진 대담한 에스프레소."
+
+msgid "Pour-Over"
+msgstr "붓기"
+
+msgid "A clean, aromatic brewed by hand for a refined taste."
+msgstr "손으로 직접 양조한 깔끔하고 향기로운 맛으로 세련된 맛을 선사합니다."
+
+msgid "French Press"
+msgstr "프렌치 프레스"
+
+msgid "A rich, full-bodied coffee brewed by immersion."
+msgstr "몰입감 있게 추출한 풍부하고 포만감 있는 커피."
+
+msgid "AeroPress"
+msgstr "에어로프레스"
+
+msgid "A smooth, concentrated coffee brewed with pressure."
+msgstr "압력으로 우려낸 부드럽고 농축된 커피."
+
+msgid "Cold Brew"
+msgstr "콜드 브루"
+
+msgid "A smooth, naturally sweet coffee brewed cold and slow."
+msgstr "부드럽고 자연스럽게 달콤한 커피를 차갑게 천천히 우려냈다."
+
+msgid "Moka Pot"
+msgstr "모카 포트"
+
+msgid "A bold, espresso-like coffee brewed with steam pressure."
+msgstr "증기 압력으로 양조된 대담하고 에스프레소 같은 커피."
+
+msgid "Iced Black Coffee"
+msgstr "아이스 블랙 커피"
+
+msgid "A crisp, refreshing coffee served chilled."
+msgstr "바삭한 커피는 시원한 커피가 냉각되었다."
+
+msgid "Iced Americano"
+msgstr "아이스 아메리카노"
+
+msgid "Espresso with cold water for smooth, refreshing taste."
+msgstr "부드럽고 상쾌한 맛을 위해 차가운 물을 곁들인 에스프레소."
+
+msgid "Iced Coffee"
+msgstr "아이스 커피"
+
+msgid "A chilled, smooth coffee served over ice."
+msgstr "얼음 위에 차갑게 부드러운 커피가 제공됩니다."
+
+msgid "Iced Flat White"
+msgstr "아이스 플랫 화이트"
+
+msgid "An espresso with chilled milk for a creamy, velvety finish."
+msgstr "크리미하고 벨벳 같은 마무리를 위해 차가운 우유를 곁들인 에스프레소."
+
+msgid "Iced Hazelnut Coffee"
+msgstr "아이스 헤이즐넛 커피"
+
+msgid "Iced coffee infused with rich, nutty hazelnut flavor."
+msgstr "풍부하고 고소한 헤이즐넛 향이 가득한 아이스 커피."
+
+msgid "Honey Almond Coffee"
+msgstr "허니 아몬드 커피"
+
+msgid "Coffee with sweet honey and nutty almond flavor."
+msgstr "달콤한 꿀과 고소한 아몬드 맛이 나는 커피."
+
+msgid "Coconut Mocha"
+msgstr "코코넛 모카"
+
+msgid "A blend of coffee, chocolate, and creamy coconut."
+msgstr "커피, 초콜릿, 크리미한 코코넛의 블렌딩."
+
+msgid "Lavender Latte"
+msgstr "라벤더 라떼"
+
+msgid "An espresso with creamy milk and a floral hint of lavender."
+msgstr "크리미한 우유와 라벤더 꽃 향기가 나는 에스프레소."
+
+msgid "Rose Coffee"
+msgstr "로즈 커피"
+
+msgid "A fragrant coffee infused with delicate rose flavor."
+msgstr "은은한 장미 향이 가득한 향기로운 커피."
+
+msgid "Salted Caramel Coffee"
+msgstr "솔티드 카라멜 커피"
+
+msgid "Coffee with sweet caramel and a hint of sea salt."
+msgstr "달콤한 캐러멜과 약간의 천일염이 들어간 커피."
+
+msgid "Cinnamon Dolce Latte"
+msgstr "시나몬 돌체 라떼"
+
+msgid "An espresso with creamy milk and sweet cinnamon spice."
+msgstr "크리미한 우유와 달콤한 시나몬 향신료가 들어간 에스프레소."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. SINGLE PAGE MENU
+msgid "Single Menu"
+msgstr "단일 메뉴"
+
+msgid "Choose Serving Size:"
+msgstr "서빙 크기 선택:"
+
+msgid "Add Extra:"
+msgstr "추가:"
+
+msgid "Back to Menu"
+msgstr "메뉴로 돌아가기"
+
+msgid "Menu item not found."
+msgstr "메뉴 항목을 찾을 수 없습니다."
+
+msgid "Our Best Sellers"
+msgstr "베스트셀러"
+
+msgid "Small"
+msgstr "작은"
+
+msgid "Medium"
+msgstr "작은"
+
+msgid "Large"
+msgstr "큰"
+
+msgid "Extra Sugar"
+msgstr "엑스트라 슈가"
+
+msgid "Non-Dairy Milk"
+msgstr "비유유 우유"
+
+msgid "Caramel Syrup"
+msgstr "캐러멜 시럽"
+
+msgid "Whipped Cream"
+msgstr "휘핑 크림"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign In or Log In
+msgid "Log in with your account"
+msgstr "계정으로 로그인하세요"
+
+msgid "Email Address"
+msgstr "이메일주소"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Sign In"
+msgstr "로그인"
+
+msgid "Don't have an account?"
+msgstr "계정이 없나요?"
+
+#. Sign Up or Registration
+msgid "Sign Up"
+msgstr "등록하다"
+
+msgid "Create an account"
+msgstr "계정 만들기"
+
+msgid "Full Name"
+msgstr "전체 이름"
+
+msgid "Already have an account?"
+msgstr "이미 계정이 있나요?"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. 404 ERROR PAGE
+#. --------------------------------------||
+msgid "Oops! That page can't be found."
+msgstr "어머나! 그 페이지를 찾을 수가 없네요."
+
+msgid "It looks like nothing was found at this location."
+msgstr "이 위치에서 아무것도 발견되지 않은 것 같습니다."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Last updated:"
+msgstr "마지막 업데이트:"
+
+msgid "1. Information We Collect"
+msgstr "1. 우리가 수집하는 정보"
+
+msgid ""
+"This theme does not collect personal data by default. However, if you enable "
+"optional features, we may collect:"
+msgstr ""
+"이 테마는 기본적으로 개인 데이터를 수집하지 않습니다. 그러나 선택적 기능을 활"
+"성화하면 다음을 수집할 수 있습니다:"
+
+msgid "Contact information (if provided in forms)"
+msgstr "연락처 정보(형식으로 제공되는 경우)"
+
+msgid "Cookies for website functionality"
+msgstr "웹사이트 기능을 위한 쿠키"
+
+msgid "2. How We Use Your Information"
+msgstr "2. 귀하의 정보를 사용하는 방법"
+
+msgid ""
+"Any data collected is used solely to improve user experience and website "
+"functionality."
+msgstr ""
+"수집된 모든 데이터는 사용자 경험과 웹사이트 기능을 개선하는 데만 사용됩니다."
+
+msgid "3. Cookies"
+msgstr "3. 쿠키"
+
+msgid ""
+"Our website may use cookies for analytics and functionality. You can disable "
+"cookies in your browser settings."
+msgstr ""
+"저희 웹사이트는 분석 및 기능을 위해 쿠키를 사용할 수 있습니다. 브라우저 설정"
+"에서 쿠키를 비활성화할 수 있습니다."
+
+msgid "4. Third-Party Services"
+msgstr "4. 타사 서비스"
+
+msgid ""
+"If this theme integrates third-party services, they may collect data. Please "
+"refer to their privacy policies."
+msgstr ""
+"이 테마가 타사 서비스를 통합하는 경우 데이터를 수집할 수 있습니다. 개인정보 "
+"보호정책을 참조해 주세요."
+
+msgid "5. Your Rights"
+msgstr "5. 당신의 권리"
+
+msgid ""
+"You have the right to request access, correction, or deletion of any "
+"personal data collected."
+msgstr ""
+"귀하는 수집된 모든 개인 데이터에 대한 접근, 수정 또는 삭제를 요청할 권리가 있"
+"습니다."
+
+msgid "6. Contact Us"
+msgstr "6. 문의해 주세요"
+
+msgid "If you have any questions about this privacy policy, contact us at:"
+msgstr ""
+"이 개인정보 보호 정책에 대해 궁금한 점이 있으시면, 저희에게 연락해 주세요:"

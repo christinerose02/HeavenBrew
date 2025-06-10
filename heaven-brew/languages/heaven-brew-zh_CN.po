@@ -1,0 +1,532 @@
+# Copyright (C) 2025 Heaven Brew Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Heaven Brew 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/heaven-brew\n"
+"POT-Creation-Date: 2025-04-03T11:12:57.000Z\n"
+"PO-Revision-Date: 2025-04-04 21:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: heaven-brew\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Home"
+msgstr "联系我们"
+
+msgid "Menu"
+msgstr "菜单 菜单"
+
+msgid "Account"
+msgstr "帐户"
+
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "保留所有权利。"
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgctxt "Theme Name"
+msgid "Heaven Brew"
+msgstr "天堂酿造"
+
+msgctxt "Theme Description"
+msgid "A coffee-inspired WordPress theme for cafes and coffee shops"
+msgstr "咖啡灵感的WordPress主题咖啡馆和咖啡店"
+
+msgid "Welcome to Heaven Brew"
+msgstr "欢迎来到Heaven Brew"
+
+msgid "Enjoy the best coffee experience"
+msgstr "享受最好的咖啡体验"
+
+msgid "Explore Menu"
+msgstr "探索菜单"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Coffee Selection Section
+msgid "Our Coffee Selection"
+msgstr "我们的咖啡选择"
+
+msgid "Espresso"
+msgstr "浓缩咖啡"
+
+msgid ""
+"A strong, rich coffee brewed by forcing hot water through finely-ground "
+"coffee beans."
+msgstr "浓咖啡一种浓浓的咖啡，通过将热水冲入磨碎的咖啡豆中冲泡而成"
+
+msgid "Cappuccino"
+msgstr "卡布奇诺"
+
+msgid ""
+"A perfect balance of espresso, steamed milk, and foam for a smooth and "
+"creamy taste."
+msgstr "浓缩咖啡、蒸牛奶和泡沫的完美平衡，带来光滑和奶油味。"
+
+msgid "Latte"
+msgstr "拿铁"
+
+msgid ""
+"A comforting blend of espresso and steamed milk with a light layer of foam "
+"on top."
+msgstr "浓缩咖啡和蒸牛奶的舒适混合物，上面有一层轻薄的泡沫。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "About Us"
+msgstr "关于我们 / About us"
+
+msgid ""
+"At Brew Haven, we bring you the finest coffee sourced from around the world. "
+"Our expert baristas craft each cup with precision and passion to give you "
+"the best coffee experience."
+msgstr ""
+"在Brew Haven，我们为您带来来自世界各地的最好的咖啡。 我们的专业咖啡师精准而热"
+"情地制作每一杯咖啡，为您提供最佳的咖啡体验。"
+
+msgid "Visit us and savor the art of coffee in a warm, inviting atmosphere."
+msgstr "参观我们，在温馨、诱人的氛围中品味咖啡的艺术。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Coffee Selection Section
+msgid "Our Top Coffee Selections"
+msgstr "我们的顶级咖啡精选"
+
+msgid "A strong, concentrated shot of coffee with aromatic flavor."
+msgstr "浓咖啡浓咖啡浓咖啡浓咖啡浓咖啡浓的浓咖啡浓咖啡香味"
+
+msgid "Drip Coffee"
+msgstr "滴灌咖啡"
+
+msgid "A smooth, slow-brewed coffee with a balanced flavor."
+msgstr "一种口感平衡、口感顺滑的慢冲咖啡。"
+
+msgid "Iced Cappuccino"
+msgstr "冰卡布奇诺"
+
+msgid "A bold espresso with chilled milk and a frothy, airy top."
+msgstr "一杯大胆的浓缩咖啡，冰镇的牛奶和泡沫，通风的顶部。"
+
+msgid "View Menu"
+msgstr "查看菜单"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Best Haven Section
+msgid "🌟 Best – Heaven Brew at Your Doorstep!"
+msgstr "🌟 最好的 – 天堂酿造在你家门口!"
+
+msgid "🚀 10-Minute Coffee, Now!"
+msgstr "🚀 10分钟咖啡，现在！"
+
+msgid ""
+"Craving a fresh brew? Get your favorite coffee delivered to your doorstep in "
+"just minutes!"
+msgstr "想喝杯新鲜啤酒吗？ 在几分钟内将您喜爱的咖啡送到您的家门口！"
+
+msgid "💰 Best Prices & Offers"
+msgstr "💰 最优惠的价格和优惠"
+
+msgid ""
+"Enjoy premium coffee at the best prices, plus exclusive discounts and "
+"cashback deals."
+msgstr "以最优惠的价格享用优质咖啡，以及独家折扣和返现优惠。"
+
+msgid "🌟 Wide Selection"
+msgstr "🌟 广泛的选择"
+
+msgid ""
+"Explore a variety of handcrafted coffees, teas, pastries, and more—crafted "
+"to perfection."
+msgstr "探索各种手工制作的咖啡，茶，糕点等 - 制作完美。"
+
+msgid "🔄 Easy Returns"
+msgstr "🔄 轻松退货"
+
+msgid ""
+"Not satisfied? Get a hassle-free refund or replacement, no questions asked!"
+msgstr "不满意？ 获得无忧退款或更换，无需提问！"
+
+msgid "☕ Freshly Brewed Every Time"
+msgstr "☕ 每次新鲜酿造"
+
+msgid ""
+"We ensure every cup is made fresh upon order, giving you the perfect taste "
+"and aroma in every sip."
+msgstr "我们确保每杯都是新鲜的订单,给你完美的味道和香气在每一口。"
+
+msgid "📍 Available Near You"
+msgstr "📍 可在您附近使用"
+
+msgid ""
+"With multiple locations, we guarantee fast delivery and the freshest "
+"ingredients straight to your cup!"
+msgstr "随着多个地点，我们保证快速交货和新鲜成分，确保快速交货！"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Stay Updated with Our Latest Coffee Blends!"
+msgstr "继续更新最新咖啡混合！"
+
+msgid ""
+"Subscribe to our newsletter and never miss an update on our special brews, "
+"offers, and more."
+msgstr "订阅我们的时事通讯，永远不要错过我们的特别啤酒，优惠等更新。"
+
+msgid "Enter your email"
+msgstr "输入您的电子邮件"
+
+msgid "Subscribe"
+msgstr "联系我们"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+msgid "Get in Touch"
+msgstr "联系我们"
+
+msgid ""
+"Have any questions? Reach out to us through our contact page or visit us at "
+"our nearest outlet."
+msgstr ""
+"有什么问题吗？ 请通过我们的联系页面与我们联系，或在离我们最近的网点访问我们。"
+
+msgid "Our Location"
+msgstr "我们的位置"
+
+msgid "123 Coffee Street, Brewtown"
+msgstr ""
+
+msgid "Call Us"
+msgstr "联系我们"
+
+msgid "+1 234 567 890"
+msgstr ""
+
+msgid "Email Us"
+msgstr "联系我们"
+
+msgid "contact@brewhaven.com"
+msgstr ""
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. MENU PAGE
+#. --------------------------------------||
+msgid "Our Menu"
+msgstr "我们的菜单"
+
+#. ---------------------------------------
+#. Menu Categories
+msgid "All"
+msgstr "全部的"
+
+msgid "Espresso-Based Coffees"
+msgstr "浓缩咖啡"
+
+msgid "Brewed & Specialty Coffees"
+msgstr "酿造和特色咖啡"
+
+msgid "Iced Coffees & Variations"
+msgstr "冰咖啡和变化"
+
+msgid "Flavored & Specialty Lattes"
+msgstr "调味品及专业拉丁文"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Menu Cards
+msgid "A strong, concentrated shot of coffee."
+msgstr "浓浓的浓浓的咖啡。"
+
+msgid "Doppio"
+msgstr "多普勒"
+
+msgid "A bold, double shot of espresso."
+msgstr "一个大胆的，双倍浓缩咖啡的镜头。"
+
+msgid "Ristretto"
+msgstr "里斯特雷托"
+
+msgid "A strong, concentrated shot with a richer, bolder flavor."
+msgstr "浓烈的浓烈浓烈的镜头，味道更浓烈、更大胆"
+
+msgid "Lungo"
+msgstr "伦戈"
+
+msgid "A smooth, extended shot with a milder, aromatic taste."
+msgstr "光滑，一种光滑，芳香的香味，芳香味。"
+
+msgid "A rich with velvety steamed milk and a airy foam layer."
+msgstr "丰富的天鹅绒蒸牛奶和通风的泡沫层。"
+
+msgid "Cortado"
+msgstr "科尔塔多"
+
+msgid "A bold espresso softened with warm milk."
+msgstr "浓浓的浓缩咖啡加温牛奶软化。"
+
+msgid "Pour-Over"
+msgstr "倾覆 (游戏)"
+
+msgid "A clean, aromatic brewed by hand for a refined taste."
+msgstr "清香手工酿造而成的清香型，口感细腻"
+
+msgid "French Press"
+msgstr "法国新闻社"
+
+msgid "A rich, full-bodied coffee brewed by immersion."
+msgstr "浸入式咖啡通过浸入式冲泡而成的浓郁的、浓郁的咖啡"
+
+msgid "AeroPress"
+msgstr "AeroPress公司简介"
+
+msgid "A smooth, concentrated coffee brewed with pressure."
+msgstr "浓咖啡，浓咖啡一种用压力冲泡的平滑、浓缩的咖啡"
+
+msgid "Cold Brew"
+msgstr "冷冲泡"
+
+msgid "A smooth, naturally sweet coffee brewed cold and slow."
+msgstr "冰咖啡一种光滑的、天然甜美的咖啡，冲泡得又冷又慢"
+
+msgid "Moka Pot"
+msgstr "莫卡壶"
+
+msgid "A bold, espresso-like coffee brewed with steam pressure."
+msgstr "浓咖啡用蒸汽压力冲泡而成的大胆浓缩咖啡"
+
+msgid "Iced Black Coffee"
+msgstr "冰黑咖啡"
+
+msgid "A crisp, refreshing coffee served chilled."
+msgstr "冰镇咖啡一种清脆、清凉的咖啡"
+
+msgid "Iced Americano"
+msgstr "冰美式咖啡"
+
+msgid "Espresso with cold water for smooth, refreshing taste."
+msgstr "浓缩咖啡加冷水，口感顺滑、清爽。"
+
+msgid "Iced Coffee"
+msgstr "冰镇咖啡"
+
+msgid "A chilled, smooth coffee served over ice."
+msgstr "冰激凌冰激凌冰激凌的冰激凌咖啡"
+
+msgid "Iced Flat White"
+msgstr "冰块白色"
+
+msgid "An espresso with chilled milk for a creamy, velvety finish."
+msgstr "意式浓缩咖啡加冰镇的牛奶，具有奶油般的天鹅绒般的口感。"
+
+msgid "Iced Hazelnut Coffee"
+msgstr "冰榛子咖啡"
+
+msgid "Iced coffee infused with rich, nutty hazelnut flavor."
+msgstr "冰咖啡注入浓郁的坚果榛子味。"
+
+msgid "Honey Almond Coffee"
+msgstr "蜂蜜杏仁咖啡"
+
+msgid "Coffee with sweet honey and nutty almond flavor."
+msgstr ""
+
+msgid "Coconut Mocha"
+msgstr "椰子莫桑奇"
+
+msgid "A blend of coffee, chocolate, and creamy coconut."
+msgstr "混合咖啡，巧克力和奶油椰子。"
+
+msgid "Lavender Latte"
+msgstr "薰衣草拿铁"
+
+msgid "An espresso with creamy milk and a floral hint of lavender."
+msgstr "一杯浓缩咖啡，奶油牛奶和薰衣草的花香。"
+
+msgid "Rose Coffee"
+msgstr "玫瑰咖啡系列"
+
+msgid "A fragrant coffee infused with delicate rose flavor."
+msgstr "玫瑰咖啡一种芳香的咖啡，注入了淡淡的玫瑰香味。"
+
+msgid "Salted Caramel Coffee"
+msgstr "咸焦糖咖啡"
+
+msgid "Coffee with sweet caramel and a hint of sea salt."
+msgstr "咖啡和香糖和香香甜甜甜甜甜的咖啡。"
+
+msgid "Cinnamon Dolce Latte"
+msgstr "桂花铁铁"
+
+msgid "An espresso with creamy milk and sweet cinnamon spice."
+msgstr "一种浓缩咖啡，配以奶油牛奶和甜肉桂香料。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. SINGLE PAGE MENU
+msgid "Single Menu"
+msgstr "单菜单"
+
+msgid "Choose Serving Size:"
+msgstr "单菜单"
+
+msgid "Add Extra:"
+msgstr "添加额外内容:"
+
+msgid "Back to Menu"
+msgstr "返回菜单"
+
+msgid "Menu item not found."
+msgstr "没有找到该页面。"
+
+msgid "Our Best Sellers"
+msgstr "我们的最畅销产品"
+
+msgid "Small"
+msgstr "小 块"
+
+msgid "Medium"
+msgstr "媒体中心"
+
+msgid "Large"
+msgstr "大块头"
+
+msgid "Extra Sugar"
+msgstr "额外糖分"
+
+msgid "Non-Dairy Milk"
+msgstr "非乳制品"
+
+msgid "Caramel Syrup"
+msgstr "焦糖糖浆"
+
+msgid "Whipped Cream"
+msgstr "鲜奶油"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign In or Log In
+msgid "Log in with your account"
+msgstr "与你的帐户日志"
+
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+msgid "Password"
+msgstr "用户名:"
+
+msgid "Sign In"
+msgstr "登录 _ 注册"
+
+msgid "Don't have an account?"
+msgstr "没有账户?"
+
+#. Sign Up or Registration
+msgid "Sign Up"
+msgstr "立即预订"
+
+msgid "Create an account"
+msgstr "立即预订"
+
+msgid "Full Name"
+msgstr "联系我们"
+
+msgid "Already have an account?"
+msgstr "已有账号？"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. 404 ERROR PAGE
+#. --------------------------------------||
+msgid "Oops! That page can't be found."
+msgstr "页面找不到 对不起,您访问的页面不存在。"
+
+msgid "It looks like nothing was found at this location."
+msgstr "似乎在这个地方什么也没发现。"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Last updated:"
+msgstr "最后更新:"
+
+msgid "1. Information We Collect"
+msgstr "1. 我们收集的信息"
+
+msgid ""
+"This theme does not collect personal data by default. However, if you enable "
+"optional features, we may collect:"
+msgstr ""
+"默认情况下,此主题不会收集个人数据。 但是，如果您启用可选功能，我们可能会收集:"
+
+msgid "Contact information (if provided in forms)"
+msgstr "联络资料(如表格)"
+
+msgid "Cookies for website functionality"
+msgstr "网页功能性饼干"
+
+msgid "2. How We Use Your Information"
+msgstr "2. 我们如何使用您的信息"
+
+msgid ""
+"Any data collected is used solely to improve user experience and website "
+"functionality."
+msgstr "收集的任何数据仅用于改善用户体验和网站功能。"
+
+msgid "3. Cookies"
+msgstr "3. 联系我们"
+
+msgid ""
+"Our website may use cookies for analytics and functionality. You can disable "
+"cookies in your browser settings."
+msgstr ""
+"我们的网站可能会使用cookies进行分析和功能。 您可以在浏览器设置中禁用 Cookie。"
+
+msgid "4. Third-Party Services"
+msgstr "4. 第三方服务"
+
+msgid ""
+"If this theme integrates third-party services, they may collect data. Please "
+"refer to their privacy policies."
+msgstr "如果此主题集成了第三方服务，他们可能会收集数据。 请参阅其隐私政策。"
+
+msgid "5. Your Rights"
+msgstr "5. 你的权利"
+
+msgid ""
+"You have the right to request access, correction, or deletion of any "
+"personal data collected."
+msgstr "您有权要求访问、更正或删除收集的任何个人数据。"
+
+msgid "6. Contact Us"
+msgstr "6. 联系我们 / CONTACT US"
+
+msgid "If you have any questions about this privacy policy, contact us at:"
+msgstr "如果您对本隐私政策有任何疑问,请通过以下方式联系我们:"

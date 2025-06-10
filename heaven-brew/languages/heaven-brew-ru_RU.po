@@ -1,0 +1,564 @@
+# Copyright (C) 2025 Heaven Brew Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Heaven Brew 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/heaven-brew\n"
+"POT-Creation-Date: 2025-04-03T11:12:57.000Z\n"
+"PO-Revision-Date: 2025-04-04 20:38+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: heaven-brew\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Home"
+msgstr "Главная"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Account"
+msgstr "Счет"
+
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "Все права защищены."
+
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgctxt "Theme Name"
+msgid "Heaven Brew"
+msgstr "Небесплатное сражение"
+
+msgctxt "Theme Description"
+msgid "A coffee-inspired WordPress theme for cafes and coffee shops"
+msgstr "Тема WordPress, вдохновленная кофе для кафе и кафе"
+
+msgid "Welcome to Heaven Brew"
+msgstr "Добро пожаловать в Heaven Brew"
+
+msgid "Enjoy the best coffee experience"
+msgstr "Genießen Sie die besten Kaffee Erfahrung"
+
+msgid "Explore Menu"
+msgstr "Промышленное меню"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Coffee Selection Section
+msgid "Our Coffee Selection"
+msgstr "Наш выбор кофе"
+
+msgid "Espresso"
+msgstr "Эспрессо"
+
+msgid ""
+"A strong, rich coffee brewed by forcing hot water through finely-ground "
+"coffee beans."
+msgstr ""
+"Сильный, богатый кофе, приготовленный, заставляя горячую воду через "
+"тонкоземные кофейные бобы."
+
+msgid "Cappuccino"
+msgstr "Капучино"
+
+msgid ""
+"A perfect balance of espresso, steamed milk, and foam for a smooth and "
+"creamy taste."
+msgstr ""
+"Идеальный баланс эспрессо, молока и пены для гладкого и кремового вкуса."
+
+msgid "Latte"
+msgstr "Латте"
+
+msgid ""
+"A comforting blend of espresso and steamed milk with a light layer of foam "
+"on top."
+msgstr ""
+"Комфортная смесь эспрессо и парового молока с легким слоем пены наверху."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "About Us"
+msgstr "О компании"
+
+msgid ""
+"At Brew Haven, we bring you the finest coffee sourced from around the world. "
+"Our expert baristas craft each cup with precision and passion to give you "
+"the best coffee experience."
+msgstr ""
+"В Brew Haven мы предлагаем вам лучший кофе со всего мира. Наши опытные "
+"баристы ремесляют каждую чашку с точностью и страстью, чтобы дать вам лучший "
+"опыт кофе."
+
+msgid "Visit us and savor the art of coffee in a warm, inviting atmosphere."
+msgstr ""
+"Посетите нас и наслаждайтесь искусством кофе в теплой, уютной атмосфере."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Coffee Selection Section
+msgid "Our Top Coffee Selections"
+msgstr "Наши лучшие выбор кофе"
+
+msgid "A strong, concentrated shot of coffee with aromatic flavor."
+msgstr "Сильный, концентрированный выстрел кофе с ароматическим вкусом."
+
+msgid "Drip Coffee"
+msgstr "Дрип Кофе"
+
+msgid "A smooth, slow-brewed coffee with a balanced flavor."
+msgstr "Гладкий, медленный кофе с сбалансированным вкусом."
+
+msgid "Iced Cappuccino"
+msgstr "Капучино, Исид"
+
+msgid "A bold espresso with chilled milk and a frothy, airy top."
+msgstr "Смелый эспрессо с охлажденным молоком и гладким, воздушным топом."
+
+msgid "View Menu"
+msgstr "Меню просмотра"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Best Haven Section
+msgid "🌟 Best – Heaven Brew at Your Doorstep!"
+msgstr "🌟 Лучшее – Небесный розет у Твоих дверей!!"
+
+msgid "🚀 10-Minute Coffee, Now!"
+msgstr "🚀 10-минутный кофе, сейчас!"
+
+msgid ""
+"Craving a fresh brew? Get your favorite coffee delivered to your doorstep in "
+"just minutes!"
+msgstr ""
+"Вы хотите свежее пиво? Получить ваш любимый кофе доставляется до порога "
+"всего за несколько минут!"
+
+msgid "💰 Best Prices & Offers"
+msgstr "💰 Лучшие цены и предложения"
+
+msgid ""
+"Enjoy premium coffee at the best prices, plus exclusive discounts and "
+"cashback deals."
+msgstr ""
+"Наслаждайтесь премиум-кофе по лучшим ценам, плюс эксклюзивные скидки и "
+"кассовые предложения."
+
+msgid "🌟 Wide Selection"
+msgstr "🌟 Широкий выбор"
+
+msgid ""
+"Explore a variety of handcrafted coffees, teas, pastries, and more—crafted "
+"to perfection."
+msgstr ""
+"Исследуйте различные искусственные кофе, чаи, выпечки и многое другое – "
+"изготовленные до совершенства."
+
+msgid "🔄 Easy Returns"
+msgstr "🔄 Легкий возврат"
+
+msgid ""
+"Not satisfied? Get a hassle-free refund or replacement, no questions asked!"
+msgstr ""
+"Не удовлетворены? Получите без проблем возврат или замена, никаких вопросов "
+"не задаются!"
+
+msgid "☕ Freshly Brewed Every Time"
+msgstr "☕ Свежий пивоваренный каждый раз"
+
+msgid ""
+"We ensure every cup is made fresh upon order, giving you the perfect taste "
+"and aroma in every sip."
+msgstr ""
+"Мы гарантируем, что каждая чашка сделана свежей по заказу, давая вам "
+"идеальный вкус и аромат в каждом глотке."
+
+msgid "📍 Available Near You"
+msgstr "📍 Доступно рядом с вами"
+
+msgid ""
+"With multiple locations, we guarantee fast delivery and the freshest "
+"ingredients straight to your cup!"
+msgstr ""
+"С несколькими местами, мы гарантируем быструю доставку и свежие ингредиенты "
+"прямо к вашей чашке!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Stay Updated with Our Latest Coffee Blends!"
+msgstr "Оставайтесь в курсе наших последних смесей кофе!"
+
+msgid ""
+"Subscribe to our newsletter and never miss an update on our special brews, "
+"offers, and more."
+msgstr ""
+"Подпишитесь на нашу рассылку новостей и никогда не пропустите обновления "
+"наших специальных пивоварен, предложений и многое другое."
+
+msgid "Enter your email"
+msgstr "Введите свой электронный адрес"
+
+msgid "Subscribe"
+msgstr "Подпишите"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+msgid "Get in Touch"
+msgstr "Свяжитесь с нами"
+
+msgid ""
+"Have any questions? Reach out to us through our contact page or visit us at "
+"our nearest outlet."
+msgstr ""
+"У вас есть вопросы? Свяжитесь с нами через нашу контактную страницу или "
+"посетите нас в нашем ближайшем отделении."
+
+msgid "Our Location"
+msgstr "Наше местоположение"
+
+msgid "123 Coffee Street, Brewtown"
+msgstr ""
+
+msgid "Call Us"
+msgstr "Звоните нам"
+
+msgid "+1 234 567 890"
+msgstr ""
+
+msgid "Email Us"
+msgstr "Звоните нам"
+
+msgid "contact@brewhaven.com"
+msgstr ""
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. MENU PAGE
+#. --------------------------------------||
+msgid "Our Menu"
+msgstr "Наше меню"
+
+#. ---------------------------------------
+#. Menu Categories
+msgid "All"
+msgstr "Все"
+
+msgid "Espresso-Based Coffees"
+msgstr "Кофе на основе эспрессов"
+
+msgid "Brewed & Specialty Coffees"
+msgstr "Пивоваренные и специальные коффи"
+
+msgid "Iced Coffees & Variations"
+msgstr "Iced Coffees & Вариации"
+
+msgid "Flavored & Specialty Lattes"
+msgstr "Летты со вкусом и специальностью"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Menu Cards
+msgid "A strong, concentrated shot of coffee."
+msgstr "Сильный, концентрированный выстрел кофе."
+
+msgid "Doppio"
+msgstr "Доппио"
+
+msgid "A bold, double shot of espresso."
+msgstr "Смелый, двойной выстрел эспрессо."
+
+msgid "Ristretto"
+msgstr "Растретта"
+
+msgid "A strong, concentrated shot with a richer, bolder flavor."
+msgstr "Сильный, концентрированный выстрел с более богатым, смелым вкусом."
+
+msgid "Lungo"
+msgstr "Лунго"
+
+msgid "A smooth, extended shot with a milder, aromatic taste."
+msgstr "Гладкий, расширенный выстрел с более мягким ароматическим вкусом."
+
+msgid "A rich with velvety steamed milk and a airy foam layer."
+msgstr "Богатый бархатным молоком и пеновым слоем."
+
+msgid "Cortado"
+msgstr "Кортадо"
+
+msgid "A bold espresso softened with warm milk."
+msgstr "Смелый эспрессо смягчен теплым молоком."
+
+msgid "Pour-Over"
+msgstr "Свернуть"
+
+msgid "A clean, aromatic brewed by hand for a refined taste."
+msgstr "Чистый ароматический пивоваренный вручную для изысканного вкуса."
+
+msgid "French Press"
+msgstr "Французская пресса"
+
+msgid "A rich, full-bodied coffee brewed by immersion."
+msgstr "Богатый, насыщенный кофе, приготовленный погружением."
+
+msgid "AeroPress"
+msgstr "AeroPress"
+
+msgid "A smooth, concentrated coffee brewed with pressure."
+msgstr "Гладкий, концентрированный кофе, приготовленный под давлением."
+
+msgid "Cold Brew"
+msgstr "Холодная пивоварня"
+
+msgid "A smooth, naturally sweet coffee brewed cold and slow."
+msgstr ""
+"Гладкий, естественно сладкий кофе, приготовленный холодным и медленным."
+
+msgid "Moka Pot"
+msgstr "Мока Пот"
+
+msgid "A bold, espresso-like coffee brewed with steam pressure."
+msgstr "Смелый кофе, похожий на эспрессо, приготовленный с давлением пара."
+
+msgid "Iced Black Coffee"
+msgstr "Черный кофе из льда"
+
+msgid "A crisp, refreshing coffee served chilled."
+msgstr "Жаркий, освежающий кофе подается охлажденным."
+
+msgid "Iced Americano"
+msgstr "Айд-Американо"
+
+msgid "Espresso with cold water for smooth, refreshing taste."
+msgstr "Эспрессо с холодной водой для гладкого, освежающего вкуса."
+
+msgid "Iced Coffee"
+msgstr "Ледяной кофе"
+
+msgid "A chilled, smooth coffee served over ice."
+msgstr "Прохладный, гладкий кофе подается на льду."
+
+msgid "Iced Flat White"
+msgstr "Iced Flat White"
+
+msgid "An espresso with chilled milk for a creamy, velvety finish."
+msgstr "Эспрессо с охлажденным молоком для кремового, бархатистого финиша."
+
+msgid "Iced Hazelnut Coffee"
+msgstr "Кофе с ледяным орехом"
+
+msgid "Iced coffee infused with rich, nutty hazelnut flavor."
+msgstr "Солёный кофе, наполненный богатым, ореховым ароматом ореха."
+
+msgid "Honey Almond Coffee"
+msgstr "Медовый миндальный кофе"
+
+msgid "Coffee with sweet honey and nutty almond flavor."
+msgstr "Кофе со сладким медом и ореховым миндальным вкусом."
+
+msgid "Coconut Mocha"
+msgstr "Кокосовый моха"
+
+msgid "A blend of coffee, chocolate, and creamy coconut."
+msgstr "Смесь кофе, шоколада и сливочного кокоса."
+
+msgid "Lavender Latte"
+msgstr "Лавтер Последний"
+
+msgid "An espresso with creamy milk and a floral hint of lavender."
+msgstr "Эспрессо с сливочным молоком и цветочным намеком лаванды."
+
+msgid "Rose Coffee"
+msgstr "Розовый кофе"
+
+msgid "A fragrant coffee infused with delicate rose flavor."
+msgstr "ароматный кофе, наполненный тонким вкусом розы."
+
+msgid "Salted Caramel Coffee"
+msgstr "Соленый карамельный кофе"
+
+msgid "Coffee with sweet caramel and a hint of sea salt."
+msgstr "Кофе с сладкой карамелью и намеком на морскую соль."
+
+msgid "Cinnamon Dolce Latte"
+msgstr "Корица Dolce Latte"
+
+msgid "An espresso with creamy milk and sweet cinnamon spice."
+msgstr "Эспрессо с сливочным молоком и сладкой корицей специй."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. SINGLE PAGE MENU
+msgid "Single Menu"
+msgstr "Единое меню"
+
+msgid "Choose Serving Size:"
+msgstr "Выберите размер обслуживания:"
+
+msgid "Add Extra:"
+msgstr "Дополнительно:"
+
+msgid "Back to Menu"
+msgstr "Вернуться к меню"
+
+msgid "Menu item not found."
+msgstr "Меню не найдено."
+
+msgid "Our Best Sellers"
+msgstr "Наши лучшие продавцы"
+
+msgid "Small"
+msgstr "Маленький"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Large"
+msgstr "Большая"
+
+msgid "Extra Sugar"
+msgstr "Дополнительный сахар"
+
+msgid "Non-Dairy Milk"
+msgstr "Молоко, не молочное"
+
+msgid "Caramel Syrup"
+msgstr "Карамельский сироп"
+
+msgid "Whipped Cream"
+msgstr "Шип-крем"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign In or Log In
+msgid "Log in with your account"
+msgstr "Войдите в систему с вашим акка"
+
+msgid "Email Address"
+msgstr "Адрес электронной почты"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Sign In"
+msgstr "Войти"
+
+msgid "Don't have an account?"
+msgstr "У тебя нет счета?"
+
+#. Sign Up or Registration
+msgid "Sign Up"
+msgstr "Подпишитесь"
+
+msgid "Create an account"
+msgstr "Создать аккаунт"
+
+msgid "Full Name"
+msgstr "Полное имя"
+
+msgid "Already have an account?"
+msgstr "У вас уже есть аккаунт?"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. 404 ERROR PAGE
+#. --------------------------------------||
+msgid "Oops! That page can't be found."
+msgstr "Ой! Эта страница не может быть найдена."
+
+msgid "It looks like nothing was found at this location."
+msgstr "Похоже, в этом месте ничего не было найдено."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Last updated:"
+msgstr "Последнее обновление:"
+
+msgid "1. Information We Collect"
+msgstr "1. Информация, которую мы собираем"
+
+msgid ""
+"This theme does not collect personal data by default. However, if you enable "
+"optional features, we may collect:"
+msgstr ""
+"Эта тема не собирает персональные данные по умолчанию. Однако, если вы "
+"включите дополнительные функции, мы можем собрать:"
+
+msgid "Contact information (if provided in forms)"
+msgstr "Контактная информация (если предоставлена в форме)"
+
+msgid "Cookies for website functionality"
+msgstr "Файлы cookie для функциональности сайта"
+
+msgid "2. How We Use Your Information"
+msgstr "2. Как мы используем вашу информацию"
+
+msgid ""
+"Any data collected is used solely to improve user experience and website "
+"functionality."
+msgstr ""
+"Любые собранные данные используются исключительно для улучшения "
+"пользовательского опыта и функциональности сайта."
+
+msgid "3. Cookies"
+msgstr "3. Куки"
+
+msgid ""
+"Our website may use cookies for analytics and functionality. You can disable "
+"cookies in your browser settings."
+msgstr ""
+"Наш сайт может использовать файлы cookie для анализа и функциональности. Вы "
+"можете отключить файлы cookie в настройках браузера."
+
+msgid "4. Third-Party Services"
+msgstr "4. Услуги третьих сторон"
+
+msgid ""
+"If this theme integrates third-party services, they may collect data. Please "
+"refer to their privacy policies."
+msgstr ""
+"Если эта тема интегрирует услуги третьих лиц, они могут собирать данные. "
+"Пожалуйста, обратитесь к их политике конфиденциальности."
+
+msgid "5. Your Rights"
+msgstr "5. Ваши права"
+
+msgid ""
+"You have the right to request access, correction, or deletion of any "
+"personal data collected."
+msgstr ""
+"Вы имеете право запросить доступ, исправление или удаление любых собранных "
+"личных данных."
+
+msgid "6. Contact Us"
+msgstr "6. Свяжитесь с нами"
+
+msgid "If you have any questions about this privacy policy, contact us at:"
+msgstr ""
+"Если у вас возникли вопросы по данной политике конфиденциальности, свяжитесь "
+"с нами по адресу:"

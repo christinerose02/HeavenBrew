@@ -1,0 +1,566 @@
+# Copyright (C) 2025 Heaven Brew Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Heaven Brew 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/heaven-brew\n"
+"POT-Creation-Date: 2025-04-03T11:12:57.000Z\n"
+"PO-Revision-Date: 2025-04-04 20:26+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: heaven-brew\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Menu"
+msgstr "Menú"
+
+msgid "Account"
+msgstr "Cuenta"
+
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "Todos los derechos reservados."
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgctxt "Theme Name"
+msgid "Heaven Brew"
+msgstr "Heaven Brew"
+
+msgctxt "Theme Description"
+msgid "A coffee-inspired WordPress theme for cafes and coffee shops"
+msgstr "Un tema WordPress inspirado en el café para cafés y cafeterías"
+
+msgid "Welcome to Heaven Brew"
+msgstr "Bienvenidos a Heaven Brew"
+
+msgid "Enjoy the best coffee experience"
+msgstr "Disfrute de la mejor experiencia de café"
+
+msgid "Explore Menu"
+msgstr "Explorar Menú"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Coffee Selection Section
+msgid "Our Coffee Selection"
+msgstr "Nuestra selección de café"
+
+msgid "Espresso"
+msgstr "Espresso"
+
+msgid ""
+"A strong, rich coffee brewed by forcing hot water through finely-ground "
+"coffee beans."
+msgstr ""
+"Un café fuerte y rico elaborado forzando agua caliente a través de frijoles "
+"de café finamente tierra."
+
+msgid "Cappuccino"
+msgstr "Cappuccino"
+
+msgid ""
+"A perfect balance of espresso, steamed milk, and foam for a smooth and "
+"creamy taste."
+msgstr ""
+"Un equilibrio perfecto de espresso, leche al vapor y espuma para un sabor "
+"suave y cremoso."
+
+msgid "Latte"
+msgstr "Latte"
+
+msgid ""
+"A comforting blend of espresso and steamed milk with a light layer of foam "
+"on top."
+msgstr ""
+"Una cómoda mezcla de café espresso y leche al vapor con una ligera capa de "
+"espuma encima."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "About Us"
+msgstr "Acerca de nosotros"
+
+msgid ""
+"At Brew Haven, we bring you the finest coffee sourced from around the world. "
+"Our expert baristas craft each cup with precision and passion to give you "
+"the best coffee experience."
+msgstr ""
+"En Brew Haven, le traemos el mejor café procedente de todo el mundo. "
+"Nuestros baristas expertos artesan cada taza con precisión y pasión para "
+"darle la mejor experiencia de café."
+
+msgid "Visit us and savor the art of coffee in a warm, inviting atmosphere."
+msgstr ""
+"Visítenos y saboreen el arte del café en un ambiente cálido y acogedor."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Coffee Selection Section
+msgid "Our Top Coffee Selections"
+msgstr "Nuestros Top Café Selecciones"
+
+msgid "A strong, concentrated shot of coffee with aromatic flavor."
+msgstr "Una toma fuerte y concentrada de café con sabor aromático."
+
+msgid "Drip Coffee"
+msgstr "Café de gota"
+
+msgid "A smooth, slow-brewed coffee with a balanced flavor."
+msgstr "Un café suave y lento con un sabor equilibrado."
+
+msgid "Iced Cappuccino"
+msgstr "Iced Cappuccino"
+
+msgid "A bold espresso with chilled milk and a frothy, airy top."
+msgstr "Un espresso audaz con leche fría y una tapa espumosa y aireada."
+
+msgid "View Menu"
+msgstr "Menú Visualización"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Best Haven Section
+msgid "🌟 Best – Heaven Brew at Your Doorstep!"
+msgstr "🌟 Mejor – ¡El Cielo creció a tu paso!!"
+
+msgid "🚀 10-Minute Coffee, Now!"
+msgstr "🚀 Café de 10 minutos, ¡ahora!"
+
+msgid ""
+"Craving a fresh brew? Get your favorite coffee delivered to your doorstep in "
+"just minutes!"
+msgstr ""
+"¿Quieres una cerveza fresca? Consiga su café favorito entregado a su puerta "
+"en sólo minutos!"
+
+msgid "💰 Best Prices & Offers"
+msgstr "💰 Los mejores precios y ofertas"
+
+msgid ""
+"Enjoy premium coffee at the best prices, plus exclusive discounts and "
+"cashback deals."
+msgstr ""
+"Disfrute de café premium a los mejores precios, además de descuentos "
+"exclusivos y ofertas de descuento."
+
+msgid "🌟 Wide Selection"
+msgstr "🌟 Amplia selección"
+
+msgid ""
+"Explore a variety of handcrafted coffees, teas, pastries, and more—crafted "
+"to perfection."
+msgstr ""
+"Explora una variedad de cafés artesanales, té, pasteles, y más - elaborados "
+"a la perfección."
+
+msgid "🔄 Easy Returns"
+msgstr "🔄 Easy Restituye"
+
+msgid ""
+"Not satisfied? Get a hassle-free refund or replacement, no questions asked!"
+msgstr ""
+"¿No estás satisfecho? Obtenga un reembolso o reemplazo sin problemas, sin "
+"preguntas!"
+
+msgid "☕ Freshly Brewed Every Time"
+msgstr "☕ Recién crecida cada vez"
+
+msgid ""
+"We ensure every cup is made fresh upon order, giving you the perfect taste "
+"and aroma in every sip."
+msgstr ""
+"Nos aseguramos de que cada taza se haga fresca a pedido, dándole el sabor "
+"perfecto y el aroma en cada sorbo."
+
+msgid "📍 Available Near You"
+msgstr "📍 Disponible cerca de ti"
+
+msgid ""
+"With multiple locations, we guarantee fast delivery and the freshest "
+"ingredients straight to your cup!"
+msgstr ""
+"Con múltiples ubicaciones, garantizamos entrega rápida y los ingredientes "
+"más frescos directamente a su taza!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Stay Updated with Our Latest Coffee Blends!"
+msgstr "¡Manténgase actualizado con nuestras últimas mezclas de café!"
+
+msgid ""
+"Subscribe to our newsletter and never miss an update on our special brews, "
+"offers, and more."
+msgstr ""
+"Suscríbete a nuestro boletín de noticias y nunca pierdas una actualización "
+"sobre nuestras especiales cervezas, ofertas, y más."
+
+msgid "Enter your email"
+msgstr "Introduzca su correo electrónico"
+
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+msgid "Get in Touch"
+msgstr "Póngase en contacto"
+
+msgid ""
+"Have any questions? Reach out to us through our contact page or visit us at "
+"our nearest outlet."
+msgstr ""
+"¿Tiene alguna pregunta? Alcánzanos a través de nuestra página de contacto o "
+"visite nuestra salida más cercana."
+
+msgid "Our Location"
+msgstr "Nuestra ubicación"
+
+msgid "123 Coffee Street, Brewtown"
+msgstr ""
+
+msgid "Call Us"
+msgstr "Llámenos"
+
+msgid "+1 234 567 890"
+msgstr ""
+
+msgid "Email Us"
+msgstr "Envíenos un correo electrónico"
+
+msgid "contact@brewhaven.com"
+msgstr ""
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. MENU PAGE
+#. --------------------------------------||
+msgid "Our Menu"
+msgstr "Nuestro menú"
+
+#. ---------------------------------------
+#. Menu Categories
+msgid "All"
+msgstr "Todos"
+
+msgid "Espresso-Based Coffees"
+msgstr "Coffees basados en el EspressoEspresso"
+
+msgid "Brewed & Specialty Coffees"
+msgstr "Coffees de cerveza y especialidad☕ Recién crecida cada vez"
+
+msgid "Iced Coffees & Variations"
+msgstr "Coffees y variaciones Iced"
+
+msgid "Flavored & Specialty Lattes"
+msgstr "Lentes de sabor y especialidad"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Menu Cards
+msgid "A strong, concentrated shot of coffee."
+msgstr "Un café fuerte y concentrado."
+
+msgid "Doppio"
+msgstr "Doppio"
+
+msgid "A bold, double shot of espresso."
+msgstr "Un café café doble y audaz."
+
+msgid "Ristretto"
+msgstr "Ristretto"
+
+msgid "A strong, concentrated shot with a richer, bolder flavor."
+msgstr "Un tiro fuerte y concentrado con un sabor más rico y audaz."
+
+msgid "Lungo"
+msgstr "Lungo"
+
+msgid "A smooth, extended shot with a milder, aromatic taste."
+msgstr "Un tiro suave y extendido con un sabor más suave y aromático."
+
+msgid "A rich with velvety steamed milk and a airy foam layer."
+msgstr "Una rica con leche al vapor y una capa de espuma ventilada."
+
+msgid "Cortado"
+msgstr "Cortado"
+
+msgid "A bold espresso softened with warm milk."
+msgstr "Un expreso audaz suavizado con leche caliente."
+
+msgid "Pour-Over"
+msgstr "Descargar"
+
+msgid "A clean, aromatic brewed by hand for a refined taste."
+msgstr ""
+"Un producto limpio y aromático elaborado a mano para un sabor refinado."
+
+msgid "French Press"
+msgstr "Prensa francesa"
+
+msgid "A rich, full-bodied coffee brewed by immersion."
+msgstr "Un café rico y en cuerpo preparado por inmersión."
+
+msgid "AeroPress"
+msgstr "AeroPress"
+
+msgid "A smooth, concentrated coffee brewed with pressure."
+msgstr "Un café suave y concentrado preparado con presión."
+
+msgid "Cold Brew"
+msgstr "Brew fría"
+
+msgid "A smooth, naturally sweet coffee brewed cold and slow."
+msgstr "Un café suave, naturalmente dulce preparado frío y lento."
+
+msgid "Moka Pot"
+msgstr "Moka Pot"
+
+msgid "A bold, espresso-like coffee brewed with steam pressure."
+msgstr "Un café audaz, como café espresso, preparado con presión de vapor."
+
+msgid "Iced Black Coffee"
+msgstr "Café negro helado"
+
+msgid "A crisp, refreshing coffee served chilled."
+msgstr "Un café fresco y refrescante servido refrigerado."
+
+msgid "Iced Americano"
+msgstr "Iced Americano"
+
+msgid "Espresso with cold water for smooth, refreshing taste."
+msgstr "Espresso con agua fría para un sabor suave y refrescante."
+
+msgid "Iced Coffee"
+msgstr "Café helado"
+
+msgid "A chilled, smooth coffee served over ice."
+msgstr "Un café fresco y suave servido sobre hielo."
+
+msgid "Iced Flat White"
+msgstr "Blanco plano Iced"
+
+msgid "An espresso with chilled milk for a creamy, velvety finish."
+msgstr "Un espresso con leche fría para un acabado cremoso y terciopelo."
+
+msgid "Iced Hazelnut Coffee"
+msgstr "Café de avellana Iced"
+
+msgid "Iced coffee infused with rich, nutty hazelnut flavor."
+msgstr "Café helado infundido con rico sabor de avellana."
+
+msgid "Honey Almond Coffee"
+msgstr "Honey Almond Coffee"
+
+msgid "Coffee with sweet honey and nutty almond flavor."
+msgstr "Café con miel dulce y sabor de almendras nueces."
+
+msgid "Coconut Mocha"
+msgstr "Mocha de coco"
+
+msgid "A blend of coffee, chocolate, and creamy coconut."
+msgstr "Una mezcla de café, chocolate y coco cremoso."
+
+msgid "Lavender Latte"
+msgstr "Lavanda Latte"
+
+msgid "An espresso with creamy milk and a floral hint of lavender."
+msgstr "Un espresso con leche cremosa y un toque floral de lavanda."
+
+msgid "Rose Coffee"
+msgstr "Café de rosa"
+
+msgid "A fragrant coffee infused with delicate rose flavor."
+msgstr "Un café fragrante infundido con delicado sabor de rosa."
+
+msgid "Salted Caramel Coffee"
+msgstr "Café salado de caramelo"
+
+msgid "Coffee with sweet caramel and a hint of sea salt."
+msgstr "Café con caramelo dulce y un toque de sal marina."
+
+msgid "Cinnamon Dolce Latte"
+msgstr "Canela Dolce Latte"
+
+msgid "An espresso with creamy milk and sweet cinnamon spice."
+msgstr "Un espresso con leche cremosa y especia de canela dulce."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. SINGLE PAGE MENU
+msgid "Single Menu"
+msgstr "Menú único"
+
+msgid "Choose Serving Size:"
+msgstr "Elija Tamaño de Servicio:"
+
+msgid "Add Extra:"
+msgstr "Añadir Extra:"
+
+msgid "Back to Menu"
+msgstr "Volver al menú"
+
+msgid "Menu item not found."
+msgstr "Artículo del menú no encontrado."
+
+msgid "Our Best Sellers"
+msgstr "Nuestros mejores vendedores"
+
+msgid "Small"
+msgstr "Pequeño"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "Large"
+msgstr "Grandes"
+
+msgid "Extra Sugar"
+msgstr "Azúcar extra"
+
+msgid "Non-Dairy Milk"
+msgstr "Leche no láctea"
+
+msgid "Caramel Syrup"
+msgstr "Sirup de caramelo"
+
+msgid "Whipped Cream"
+msgstr "Crema blanqueada"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign In or Log In
+msgid "Log in with your account"
+msgstr "Ingrese con su cuenta"
+
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+msgid "Password"
+msgstr "Pasword"
+
+msgid "Sign In"
+msgstr "Regístrese"
+
+msgid "Don't have an account?"
+msgstr "¿No tienes cuenta?"
+
+#. Sign Up or Registration
+msgid "Sign Up"
+msgstr "Regístrese"
+
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+msgid "Full Name"
+msgstr "Nombre completo"
+
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. 404 ERROR PAGE
+#. --------------------------------------||
+msgid "Oops! That page can't be found."
+msgstr "¡Oops! Esa página no se puede encontrar."
+
+msgid "It looks like nothing was found at this location."
+msgstr "Parece que no se encontró nada en este lugar."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Last updated:"
+msgstr "Última actualización:"
+
+msgid "1. Information We Collect"
+msgstr "1. Información que recopilamos"
+
+msgid ""
+"This theme does not collect personal data by default. However, if you enable "
+"optional features, we may collect:"
+msgstr ""
+"Este tema no recoge datos personales por defecto. Sin embargo, si habilita "
+"las funciones opcionales, podemos recoger:"
+
+msgid "Contact information (if provided in forms)"
+msgstr "Información de contacto (si se presenta en formularios)"
+
+msgid "Cookies for website functionality"
+msgstr "Cookies para la funcionalidad del sitio web"
+
+msgid "2. How We Use Your Information"
+msgstr "2. Cómo utilizamos su información"
+
+msgid ""
+"Any data collected is used solely to improve user experience and website "
+"functionality."
+msgstr ""
+"Los datos recogidos se utilizan únicamente para mejorar la experiencia del "
+"usuario y la funcionalidad del sitio web."
+
+msgid "3. Cookies"
+msgstr "3. Cookie"
+
+msgid ""
+"Our website may use cookies for analytics and functionality. You can disable "
+"cookies in your browser settings."
+msgstr ""
+"Nuestro sitio web puede utilizar cookies para análisis y funcionalidad. "
+"Puede desactivar las cookies en la configuración de su navegador."
+
+msgid "4. Third-Party Services"
+msgstr "4. Servicios de terceros"
+
+msgid ""
+"If this theme integrates third-party services, they may collect data. Please "
+"refer to their privacy policies."
+msgstr ""
+"Si este tema integra servicios de terceros, pueden recopilar datos. Consulte "
+"sus políticas de privacidad."
+
+msgid "5. Your Rights"
+msgstr "5. Sus derechos"
+
+msgid ""
+"You have the right to request access, correction, or deletion of any "
+"personal data collected."
+msgstr ""
+"Usted tiene derecho a solicitar acceso, corrección o supresión de los datos "
+"personales recogidos."
+
+msgid "6. Contact Us"
+msgstr "6. Contacta con nosotros"
+
+msgid "If you have any questions about this privacy policy, contact us at:"
+msgstr ""
+"Si tiene alguna pregunta acerca de esta política de privacidad, póngase en "
+"contacto con nosotros en:"

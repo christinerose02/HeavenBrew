@@ -1,0 +1,678 @@
+# Copyright (C) 2025 Heaven Brew Theme
+# This file is distributed under the same license as the Heaven Brew package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Heaven Brew 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/heaven-brew\n"
+"POT-Creation-Date: 2025-04-03T11:12:57.000Z\n"
+"PO-Revision-Date: 2025-04-03 15:19+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: heaven-brew\n"
+
+#. Theme Name
+msgctxt "Theme Name"
+msgid "Heaven Brew"
+msgstr ""
+
+#. Theme Description
+msgctxt "Theme Description"
+msgid "A coffee-inspired WordPress theme for cafes and coffee shops"
+msgstr ""
+
+#. Navigation menu item
+msgid "Home"
+msgstr ""
+
+#. Coffee menu section title
+msgid "Menu"
+msgstr ""
+
+#. About us section title
+msgid "Our Story"
+msgstr ""
+
+#. Contact section title
+msgid "Contact Us"
+msgstr ""
+
+#. Featured products section title
+msgid "Featured Brews"
+msgstr ""
+
+#. Button text
+msgid "Read More"
+msgstr ""
+
+#. Post date format, %s is the date
+msgid "Posted on %s"
+msgstr ""
+
+#. Post author format, %s is the author name
+msgid "by %s"
+msgstr ""
+
+#. Category label
+msgid "Categories"
+msgstr ""
+
+#. Tags label
+msgid "Tags"
+msgstr ""
+
+#. Search button text
+msgid "Search"
+msgstr ""
+
+#. Search form label
+msgid "Search for:"
+msgstr ""
+
+#. No results found message
+msgid "Nothing Found"
+msgstr ""
+
+#. Search no results message
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Comments closed message
+msgid "Comments are closed."
+msgstr ""
+
+#. Pagination, %s is the page number
+msgid "Page %s"
+msgstr ""
+
+#. Product category
+msgid "Coffee Beans"
+msgstr ""
+
+#. Product category
+msgid "Brewing Equipment"
+msgstr ""
+
+#. Business hours section title
+msgid "Opening Hours"
+msgstr ""
+
+#. Location section title
+msgid "Location"
+msgstr ""
+
+#. Language switcher dropdown text in header.php
+msgid "🌍 Language"
+msgstr ""
+
+#. Fallback text when Polylang plugin is not active
+msgid "Polylang not active"
+msgstr ""
+
+#. Default footer text suffix in footer.php
+msgid "All Rights Reserved."
+msgstr "All Rights Reserved."
+
+#. Privacy policy link text in footer.php
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#. Hero section default title
+msgid "Welcome to Heaven Brew"
+msgstr ""
+
+#. Hero section default description
+msgid "Enjoy the best coffee experience"
+msgstr ""
+
+#. Hero section default button text
+msgid "Explore Menu"
+msgstr ""
+
+#. Coffee selection section title
+msgid "Our Coffee Selection"
+msgstr ""
+
+#. Coffee type
+msgid "Espresso"
+msgstr ""
+
+#. Espresso description
+msgid ""
+"A strong, rich coffee brewed by forcing hot water through finely-ground "
+"coffee beans."
+msgstr ""
+
+#. Coffee type
+msgid "Cappuccino"
+msgstr ""
+
+#. Cappuccino description
+msgid ""
+"A perfect balance of espresso, steamed milk, and foam for a smooth and "
+"creamy taste."
+msgstr ""
+
+#. Coffee type
+msgid "Latte"
+msgstr ""
+
+#. Latte description
+msgid ""
+"A comforting blend of espresso and steamed milk with a light layer of foam "
+"on top."
+msgstr ""
+
+#. About section default title
+msgid "About Us"
+msgstr ""
+
+#. About section default description 1
+msgid ""
+"At Brew Haven, we bring you the finest coffee sourced from around the world. "
+"Our expert baristas craft each cup with precision and passion to give you "
+"the best coffee experience."
+msgstr ""
+
+#. About section default description 2
+msgid "Visit us and savor the art of coffee in a warm, inviting atmosphere."
+msgstr ""
+
+#. Top menus section title
+msgid "Our Top Coffee Selections"
+msgstr ""
+
+#. Coffee type
+msgid "Drip Coffee"
+msgstr ""
+
+#. Drip Coffee description
+msgid "A smooth, slow-brewed coffee with a balanced flavor."
+msgstr ""
+
+#. Coffee type
+msgid "Iced Cappuccino"
+msgstr ""
+
+#. Iced Cappuccino description
+msgid "A bold espresso with chilled milk and a frothy, airy top."
+msgstr ""
+
+#. Menu link text
+msgid "View Menu"
+msgstr ""
+
+#. Best section title
+msgid "🌟 Best – Heaven Brew at Your Doorstep!"
+msgstr ""
+
+#. Best section card title
+msgid "🚀 10-Minute Coffee, Now!"
+msgstr ""
+
+#. Best section card description
+msgid ""
+"Craving a fresh brew? Get your favorite coffee delivered to your doorstep in "
+"just minutes!"
+msgstr ""
+
+#. Best section card title
+msgid "💰 Best Prices & Offers"
+msgstr ""
+
+#. Best section card description
+msgid ""
+"Enjoy premium coffee at the best prices, plus exclusive discounts and "
+"cashback deals."
+msgstr ""
+
+#. Best section card title
+msgid "🌟 Wide Selection"
+msgstr ""
+
+#. Best section card description
+msgid ""
+"Explore a variety of handcrafted coffees, teas, pastries, and more—crafted "
+"to perfection."
+msgstr ""
+
+#. Best section card title
+msgid "🔄 Easy Returns"
+msgstr ""
+
+#. Best section card description
+msgid ""
+"Not satisfied? Get a hassle-free refund or replacement, no questions asked!"
+msgstr ""
+
+#. Best section card title
+msgid "☕ Freshly Brewed Every Time"
+msgstr ""
+
+#. Best section card description
+msgid ""
+"We ensure every cup is made fresh upon order, giving you the perfect taste "
+"and aroma in every sip."
+msgstr ""
+
+#. Best section card title
+msgid "📍 Available Near You"
+msgstr ""
+
+#. Best section card description
+msgid ""
+"With multiple locations, we guarantee fast delivery and the freshest "
+"ingredients straight to your cup!"
+msgstr ""
+
+#. Newsletter section title
+msgid "Stay Updated with Our Latest Coffee Blends!"
+msgstr ""
+
+#. Newsletter section description
+msgid ""
+"Subscribe to our newsletter and never miss an update on our special brews, "
+"offers, and more."
+msgstr ""
+
+#. Newsletter form placeholder
+msgid "Enter your email"
+msgstr ""
+
+#. Newsletter form button
+msgid "Subscribe"
+msgstr ""
+
+#. Contact section title
+msgid "Get in Touch"
+msgstr ""
+
+#. Contact section description
+msgid ""
+"Have any questions? Reach out to us through our contact page or visit us at "
+"our nearest outlet."
+msgstr ""
+
+#. Contact section card title
+msgid "Our Location"
+msgstr ""
+
+#. Contact section location
+msgid "123 Coffee Street, Brewtown"
+msgstr ""
+
+#. Contact section card title
+msgid "Call Us"
+msgstr ""
+
+#. Contact section phone
+msgid "+1 234 567 890"
+msgstr ""
+
+#. Contact section card title
+msgid "Email Us"
+msgstr ""
+
+#. Contact section email
+msgid "contact@brewhaven.com"
+msgstr ""
+
+#. Menu page title
+msgid "Our Menu"
+msgstr ""
+
+#. Menu category
+msgid "All"
+msgstr ""
+
+#. Menu category
+msgid "Espresso-Based Coffees"
+msgstr ""
+
+#. Menu category
+msgid "Brewed & Specialty Coffees"
+msgstr ""
+
+#. Menu category
+msgid "Iced Coffees & Variations"
+msgstr ""
+
+#. Menu category
+msgid "Flavored & Specialty Lattes"
+msgstr ""
+
+#. Coffee type
+msgid "Doppio"
+msgstr ""
+
+#. Doppio description
+msgid "A bold, double shot of espresso."
+msgstr ""
+
+#. Coffee type
+msgid "Ristretto"
+msgstr ""
+
+#. Ristretto description
+msgid "A strong, concentrated shot with a richer, bolder flavor."
+msgstr ""
+
+#. Coffee type
+msgid "Lungo"
+msgstr ""
+
+#. Lungo description
+msgid "A smooth, extended shot with a milder, aromatic taste."
+msgstr ""
+
+#. Cappuccino description (menu)
+msgid "A rich with velvety steamed milk and a airy foam layer."
+msgstr ""
+
+#. Coffee type
+msgid "Cortado"
+msgstr ""
+
+#. Cortado description
+msgid "A bold espresso softened with warm milk."
+msgstr ""
+
+#. Coffee type
+msgid "Pour-Over"
+msgstr ""
+
+#. Pour-Over description
+msgid "A clean, aromatic brewed by hand for a refined taste."
+msgstr ""
+
+#. Coffee type
+msgid "French Press"
+msgstr ""
+
+#. French Press description
+msgid "A rich, full-bodied coffee brewed by immersion."
+msgstr ""
+
+#. Coffee type
+msgid "AeroPress"
+msgstr ""
+
+#. AeroPress description
+msgid "A smooth, concentrated coffee brewed with pressure."
+msgstr ""
+
+#. Coffee type
+msgid "Cold Brew"
+msgstr ""
+
+#. Cold Brew description
+msgid "A smooth, naturally sweet coffee brewed cold and slow."
+msgstr ""
+
+#. Coffee type
+msgid "Moka Pot"
+msgstr ""
+
+#. Moka Pot description
+msgid "A bold, espresso-like coffee brewed with steam pressure."
+msgstr ""
+
+#. Coffee type
+msgid "Iced Black Coffee"
+msgstr ""
+
+#. Iced Black Coffee description
+msgid "A crisp, refreshing coffee served chilled."
+msgstr ""
+
+#. Coffee type
+msgid "Iced Americano"
+msgstr ""
+
+#. Iced Americano description
+msgid "An espresso with cold water for a smooth, refreshing taste."
+msgstr ""
+
+#. Coffee type
+msgid "Iced Coffee"
+msgstr ""
+
+#. Iced Coffee description
+msgid "A chilled, smooth coffee served over ice."
+msgstr ""
+
+#. Coffee type
+msgid "Iced Flat White"
+msgstr ""
+
+#. Iced Flat White description
+msgid "An espresso with chilled milk for a creamy, velvety finish."
+msgstr ""
+
+#. Coffee type
+msgid "Iced Hazelnut Coffee"
+msgstr ""
+
+#. Iced Hazelnut Coffee description
+msgid "A smooth iced coffee infused with rich, nutty hazelnut flavor."
+msgstr ""
+
+#. Coffee type
+msgid "Honey Almond Coffee"
+msgstr ""
+
+#. Honey Almond Coffee description
+msgid "A coffee infused with sweet honey and nutty almond flavor."
+msgstr ""
+
+#. Coffee type
+msgid "Coconut Mocha"
+msgstr ""
+
+#. Coconut Mocha description
+msgid "A blend of coffee, chocolate, and creamy coconut."
+msgstr ""
+
+#. Coffee type
+msgid "Lavender Latte"
+msgstr ""
+
+#. Lavender Latte description
+msgid "An espresso with creamy milk and a floral hint of lavender."
+msgstr ""
+
+#. Coffee type
+msgid "Rose Coffee"
+msgstr ""
+
+#. Rose Coffee description
+msgid "A fragrant coffee infused with delicate rose flavor."
+msgstr ""
+
+#. Coffee type
+msgid "Salted Caramel Coffee"
+msgstr ""
+
+#. Salted Caramel Coffee description
+msgid "A rich coffee with sweet caramel and a hint of sea salt."
+msgstr ""
+
+#. Coffee type
+msgid "Cinnamon Dolce Latte"
+msgstr ""
+
+#. Cinnamon Dolce Latte description
+msgid "An espresso with creamy milk and sweet cinnamon spice."
+msgstr ""
+
+#. Espresso description (simplified)
+msgid "A strong, concentrated shot of coffee."
+msgstr ""
+
+#. Serving size option
+msgid "Small"
+msgstr ""
+
+#. Serving size option
+msgid "Medium"
+msgstr ""
+
+#. Serving size option
+msgid "Large"
+msgstr ""
+
+#. Add-on option
+msgid "Extra Sugar"
+msgstr ""
+
+#. Add-on option
+msgid "Non-Dairy Milk"
+msgstr ""
+
+#. Add-on option
+msgid "Caramel Syrup"
+msgstr ""
+
+#. Add-on option
+msgid "Whipped Cream"
+msgstr ""
+
+#. Serving size section title
+msgid "Choose Serving Size:"
+msgstr ""
+
+#. Add-ons section title
+msgid "Add Extra:"
+msgstr ""
+
+#. Back button text
+msgid "Back to Menu"
+msgstr ""
+
+#. Error message
+msgid "Menu item not found."
+msgstr ""
+
+#. Best sellers section title
+msgid "Our Best Sellers"
+msgstr ""
+
+#. Login form title
+msgid "Log in with your account"
+msgstr ""
+
+#. Login form label
+msgid "Email Address"
+msgstr ""
+
+#. Login form label
+msgid "Password"
+msgstr ""
+
+#. Login button text
+msgid "Sign In"
+msgstr ""
+
+#. Login form helper text
+msgid "Don't have an account?"
+msgstr ""
+
+#. Registration link text
+msgid "Sign Up"
+msgstr ""
+
+#. Registration form title
+msgid "Create an account"
+msgstr ""
+
+#. Registration form label
+msgid "Full Name"
+msgstr ""
+
+#. Registration form helper text
+msgid "Already have an account?"
+msgstr ""
+
+#. 404 page title
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#. 404 page message
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#. Privacy policy last updated text
+msgid "Last updated:"
+msgstr ""
+
+#. Privacy policy section title
+msgid "1. Information We Collect"
+msgstr ""
+
+#. Privacy policy section content
+msgid ""
+"This theme does not collect personal data by default. However, if you enable "
+"optional features, we may collect:"
+msgstr ""
+
+#. Privacy policy list item
+msgid "Contact information (if provided in forms)"
+msgstr ""
+
+#. Privacy policy list item
+msgid "Cookies for website functionality"
+msgstr ""
+
+#. Privacy policy section title
+msgid "2. How We Use Your Information"
+msgstr ""
+
+#. Privacy policy section content
+msgid ""
+"Any data collected is used solely to improve user experience and website "
+"functionality."
+msgstr ""
+
+#. Privacy policy section title
+msgid "3. Cookies"
+msgstr ""
+
+#. Privacy policy section content
+msgid ""
+"Our website may use cookies for analytics and functionality. You can disable "
+"cookies in your browser settings."
+msgstr ""
+
+#. Privacy policy section title
+msgid "4. Third-Party Services"
+msgstr ""
+
+#. Privacy policy section content
+msgid ""
+"If this theme integrates third-party services, they may collect data. Please "
+"refer to their privacy policies."
+msgstr ""
+
+#. Privacy policy section title
+msgid "5. Your Rights"
+msgstr ""
+
+#. Privacy policy section content
+msgid ""
+"You have the right to request access, correction, or deletion of any "
+"personal data collected."
+msgstr ""
+
+#. Privacy policy section title
+msgid "6. Contact Us"
+msgstr ""
+
+#. Privacy policy section content
+msgid "If you have any questions about this privacy policy, contact us at:"
+msgstr ""

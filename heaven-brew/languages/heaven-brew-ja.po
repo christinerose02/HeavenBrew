@@ -1,0 +1,560 @@
+# Copyright (C) 2025 Heaven Brew Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Heaven Brew 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/heaven-brew\n"
+"POT-Creation-Date: 2025-04-03T11:12:57.000Z\n"
+"PO-Revision-Date: 2025-04-04 20:46+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: heaven-brew\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Home"
+msgstr "自宅"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Account"
+msgstr "アカウント"
+
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "すべての権限が予約されています。"
+
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgctxt "Theme Name"
+msgid "Heaven Brew"
+msgstr "ヘブン·ブリュー"
+
+msgctxt "Theme Description"
+msgid "A coffee-inspired WordPress theme for cafes and coffee shops"
+msgstr "WordPressのテーマはカフェや喫茶店向けです"
+
+msgid "Welcome to Heaven Brew"
+msgstr "ウェルカム·トゥ·ヘブン·ブリュー"
+
+msgid "Enjoy the best coffee experience"
+msgstr "最高のコーヒー体験をお楽しみいただけます"
+
+msgid "Explore Menu"
+msgstr "探索メニュー"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Coffee Selection Section
+msgid "Our Coffee Selection"
+msgstr "コーヒーセレクション"
+
+msgid "Espresso"
+msgstr "エスプレッソ"
+
+msgid ""
+"A strong, rich coffee brewed by forcing hot water through finely-ground "
+"coffee beans."
+msgstr "細かく挽いたコーヒー豆にお湯を注いで作った濃厚なコーヒーです。"
+
+msgid "Cappuccino"
+msgstr "カプチーノ"
+
+msgid ""
+"A perfect balance of espresso, steamed milk, and foam for a smooth and "
+"creamy taste."
+msgstr ""
+"エスプレッソ、蒸しミルク、泡のバランスが絶妙で、なめらかでクリーミーな味わい"
+"です。"
+
+msgid "Latte"
+msgstr "ラテ"
+
+msgid ""
+"A comforting blend of espresso and steamed milk with a light layer of foam "
+"on top."
+msgstr ""
+"エスプレッソと蒸しミルクの心地良いブレンドで、その上に軽い泡が乗っています。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "About Us"
+msgstr "概要"
+
+msgid ""
+"At Brew Haven, we bring you the finest coffee sourced from around the world. "
+"Our expert baristas craft each cup with precision and passion to give you "
+"the best coffee experience."
+msgstr ""
+"Brew Havenでは、世界中から調達された最高のコーヒーをお届けします。 私たちの専"
+"門的なバリスタは、あなたに最高のコーヒー体験を提供するために、それぞれのカッ"
+"プを精密かつ情熱的に製造します。"
+
+msgid "Visit us and savor the art of coffee in a warm, inviting atmosphere."
+msgstr "私たちを訪問し、温かく魅力的な雰囲気の中でコーヒーの芸術を味わいます。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Coffee Selection Section
+msgid "Our Top Coffee Selections"
+msgstr "トップコーヒーセレクション"
+
+msgid "A strong, concentrated shot of coffee with aromatic flavor."
+msgstr "香りの強い濃密なコーヒーのショットです。"
+
+msgid "Drip Coffee"
+msgstr "ドリップコーヒー"
+
+msgid "A smooth, slow-brewed coffee with a balanced flavor."
+msgstr "バランスの取れた風味の、なめらかでゆっくりとしたコーヒーです。"
+
+msgid "Iced Cappuccino"
+msgstr "アイスカプチーノ"
+
+msgid "A bold espresso with chilled milk and a frothy, airy top."
+msgstr "大胆なエスプレッソに冷やしミルクと泡立ちのある空気の良いトップです。"
+
+msgid "View Menu"
+msgstr "表示メニュー"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Best Haven Section
+msgid "🌟 Best – Heaven Brew at Your Doorstep!"
+msgstr "🌟ベスト – Heaven Brew at Your Doorstep！"
+
+msgid "🚀 10-Minute Coffee, Now!"
+msgstr "🚀コーヒー10分！"
+
+msgid ""
+"Craving a fresh brew? Get your favorite coffee delivered to your doorstep in "
+"just minutes!"
+msgstr ""
+"新鮮なビールが飲みたいですか？ お気に入りのコーヒーを数分でお届けします！"
+
+msgid "💰 Best Prices & Offers"
+msgstr "💰ベスト価格と提供"
+
+msgid ""
+"Enjoy premium coffee at the best prices, plus exclusive discounts and "
+"cashback deals."
+msgstr ""
+"プレミアムコーヒーを最高の価格でお楽しみいただけます。さらに、特別割引や"
+"キャッシュバック取引もご利用いただけます。"
+
+msgid "🌟 Wide Selection"
+msgstr "🌟ワイドセレクション"
+
+msgid ""
+"Explore a variety of handcrafted coffees, teas, pastries, and more—crafted "
+"to perfection."
+msgstr ""
+"手作りのコーヒー、紅茶、ペストリーなど、さまざまなものを完璧に再現できます。"
+
+msgid "🔄 Easy Returns"
+msgstr "🔄イージーリターンズ"
+
+msgid ""
+"Not satisfied? Get a hassle-free refund or replacement, no questions asked!"
+msgstr "不満？ 簡単な返金または交換が可能です。質問はありません！"
+
+msgid "☕ Freshly Brewed Every Time"
+msgstr "☕毎回淹れたて"
+
+msgid ""
+"We ensure every cup is made fresh upon order, giving you the perfect taste "
+"and aroma in every sip."
+msgstr ""
+"私たちはすべてのカップが注文時に新鮮に作られ、すべての一口に完璧な味と香りを"
+"与えます。"
+
+msgid "📍 Available Near You"
+msgstr "📍お近くでご利用いただけます"
+
+msgid ""
+"With multiple locations, we guarantee fast delivery and the freshest "
+"ingredients straight to your cup!"
+msgstr ""
+"複数の場所で、迅速な配送と新鮮な食材をカップに直接届けることを保証します！"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Stay Updated with Our Latest Coffee Blends!"
+msgstr "最新のコーヒーブレンドで更新しましょう！"
+
+msgid ""
+"Subscribe to our newsletter and never miss an update on our special brews, "
+"offers, and more."
+msgstr ""
+"当社のニュースレターを購読し、当社の特別な醸造酒、オファーなどの最新情報をお"
+"見逃しなく。"
+
+msgid "Enter your email"
+msgstr "Eメールを入力します"
+
+msgid "Subscribe"
+msgstr "購読"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+msgid "Get in Touch"
+msgstr "連絡"
+
+msgid ""
+"Have any questions? Reach out to us through our contact page or visit us at "
+"our nearest outlet."
+msgstr ""
+"何か質問はありますか？ 当社の連絡先ページから当社に連絡するか、最寄りのアウト"
+"レットにアクセスします。"
+
+msgid "Our Location"
+msgstr "所在地"
+
+msgid "123 Coffee Street, Brewtown"
+msgstr ""
+
+msgid "Call Us"
+msgstr "面談"
+
+msgid "+1 234 567 890"
+msgstr ""
+
+msgid "Email Us"
+msgstr "Eメール"
+
+msgid "contact@brewhaven.com"
+msgstr ""
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. MENU PAGE
+#. --------------------------------------||
+msgid "Our Menu"
+msgstr "メニュー"
+
+#. ---------------------------------------
+#. Menu Categories
+msgid "All"
+msgstr "すべて"
+
+msgid "Espresso-Based Coffees"
+msgstr "エスプレッソコーヒー"
+
+msgid "Brewed & Specialty Coffees"
+msgstr "醸造&スペシャルティコーヒー"
+
+msgid "Iced Coffees & Variations"
+msgstr "アイスコーヒー&バリエーション"
+
+msgid "Flavored & Specialty Lattes"
+msgstr "フレーバー&スペシャルティラテ"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Menu Cards
+msgid "A strong, concentrated shot of coffee."
+msgstr "濃くて濃いコーヒーのショットです。"
+
+msgid "Doppio"
+msgstr "ドッピオ"
+
+msgid "A bold, double shot of espresso."
+msgstr "エスプレッソの大胆なダブルショットです。"
+
+msgid "Ristretto"
+msgstr "リストレット"
+
+msgid "A strong, concentrated shot with a richer, bolder flavor."
+msgstr "より豊かで大胆な味わいの、強烈で集中的なショットです。"
+
+msgid "Lungo"
+msgstr "ルンゴ"
+
+msgid "A smooth, extended shot with a milder, aromatic taste."
+msgstr "柔らかく香りのある滑らかなショットです。"
+
+msgid "A rich with velvety steamed milk and a airy foam layer."
+msgstr "ベルベットのような蒸し牛乳と空気のような泡の層が豊富です。"
+
+msgid "Cortado"
+msgstr "コルタド"
+
+msgid "A bold espresso softened with warm milk."
+msgstr "厚手のエスプレッソが温かい牛乳で柔らかくなりました。"
+
+msgid "Pour-Over"
+msgstr "注ぎ込み"
+
+msgid "A clean, aromatic brewed by hand for a refined taste."
+msgstr "手で淹れた清潔で香り高い味わいです。"
+
+msgid "French Press"
+msgstr "フレンチプレス"
+
+msgid "A rich, full-bodied coffee brewed by immersion."
+msgstr "濃厚でコクのあるコーヒーは、浸漬によって淹れています。"
+
+msgid "AeroPress"
+msgstr "エアロプレス"
+
+msgid "A smooth, concentrated coffee brewed with pressure."
+msgstr "なめらかで濃縮されたコーヒーは圧力をかけて淹れています。"
+
+msgid "Cold Brew"
+msgstr "コールドブリュー"
+
+msgid "A smooth, naturally sweet coffee brewed cold and slow."
+msgstr "なめらかで自然な甘いコーヒーは、冷たくゆっくりと淹れてくれます。"
+
+msgid "Moka Pot"
+msgstr "モカポット"
+
+msgid "A bold, espresso-like coffee brewed with steam pressure."
+msgstr "蒸気圧で淹れたエスプレッソのような大胆なコーヒーです。"
+
+msgid "Iced Black Coffee"
+msgstr "アイスブラックコーヒー"
+
+msgid "A crisp, refreshing coffee served chilled."
+msgstr "サクサクの爽やかなコーヒーが冷やして提供されました。"
+
+msgid "Iced Americano"
+msgstr "アイスアメリカーノ"
+
+msgid "Espresso with cold water for smooth, refreshing taste."
+msgstr "冷たい水を入れたエスプレッソは、なめらかで爽やかな味わいです。"
+
+msgid "Iced Coffee"
+msgstr "アイスコーヒー"
+
+msgid "A chilled, smooth coffee served over ice."
+msgstr "冷たく滑らかなコーヒーが氷の上で提供されました。"
+
+msgid "Iced Flat White"
+msgstr "アイスフラットホワイト"
+
+#, fuzzy
+msgid "An espresso with chilled milk for a creamy, velvety finish."
+msgstr ""
+"冷たい牛乳を入れたエスプレッソで、クリーミーでベルベットのような仕上がりにな"
+"ります。"
+
+msgid "Iced Hazelnut Coffee"
+msgstr "アイスヘーゼルナッツコーヒー"
+
+msgid "Iced coffee infused with rich, nutty hazelnut flavor."
+msgstr ""
+"濃厚でナッツのようなヘーゼルナッツの風味が染み込んだアイスコーヒーです。"
+
+msgid "Honey Almond Coffee"
+msgstr "ハニーアーモンドコーヒー"
+
+msgid "Coffee with sweet honey and nutty almond flavor."
+msgstr "甘い蜂蜜とナッツのようなアーモンド風味のコーヒーです。"
+
+msgid "Coconut Mocha"
+msgstr "ココナッツモカ"
+
+msgid "A blend of coffee, chocolate, and creamy coconut."
+msgstr "コーヒー、チョコレート、クリーム状のココナッツをブレンドしました。"
+
+msgid "Lavender Latte"
+msgstr "ラベンダーラテ"
+
+msgid "An espresso with creamy milk and a floral hint of lavender."
+msgstr "クリーミーなミルクとラベンダーのフローラルの香りのエスプレッソです。"
+
+msgid "Rose Coffee"
+msgstr ""
+
+msgid "A fragrant coffee infused with delicate rose flavor."
+msgstr "ほのかなバラの香りが漂う香りの良いコーヒーです。"
+
+msgid "Salted Caramel Coffee"
+msgstr "塩キャラメルコーヒー"
+
+msgid "Coffee with sweet caramel and a hint of sea salt."
+msgstr "甘いキャラメルと海塩の香りがするコーヒーです。"
+
+msgid "Cinnamon Dolce Latte"
+msgstr "シナモンドルチェラテ"
+
+msgid "An espresso with creamy milk and sweet cinnamon spice."
+msgstr "クリーム状のミルクと甘いシナモンスパイスが入ったエスプレッソです。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. SINGLE PAGE MENU
+msgid "Single Menu"
+msgstr "シングルメニュー"
+
+msgid "Choose Serving Size:"
+msgstr "サービスサイズを選択します:"
+
+msgid "Add Extra:"
+msgstr "追加:"
+
+msgid "Back to Menu"
+msgstr "メニューに戻ります"
+
+msgid "Menu item not found."
+msgstr "メニュー項目が見つかりません。"
+
+msgid "Our Best Sellers"
+msgstr "ベストセラー"
+
+msgid "Small"
+msgstr "小規模"
+
+msgid "Medium"
+msgstr "ミディアム"
+
+msgid "Large"
+msgstr "大規模"
+
+msgid "Extra Sugar"
+msgstr "エクストラシュガー"
+
+msgid "Non-Dairy Milk"
+msgstr "非乳製品ミルク"
+
+msgid "Caramel Syrup"
+msgstr "キャラメルシロップ"
+
+msgid "Whipped Cream"
+msgstr "ホイップクリーム"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign In or Log In
+msgid "Log in with your account"
+msgstr "アカウントでログインします"
+
+msgid "Email Address"
+msgstr "Eメールアドレス"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Sign In"
+msgstr "サインイン"
+
+msgid "Don't have an account?"
+msgstr "口座はありませんか？"
+
+#. Sign Up or Registration
+msgid "Sign Up"
+msgstr "サインアップ"
+
+msgid "Create an account"
+msgstr "アカウント作成"
+
+msgid "Full Name"
+msgstr "フルネーム"
+
+msgid "Already have an account?"
+msgstr "既にアカウントをお持ちですか？"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. 404 ERROR PAGE
+#. --------------------------------------||
+msgid "Oops! That page can't be found."
+msgstr "おっと！そのページが見つかりません。"
+
+msgid "It looks like nothing was found at this location."
+msgstr "この場所では何も発見されていないようです。"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Last updated:"
+msgstr "最終更新日:"
+
+msgid "1. Information We Collect"
+msgstr "1. 情報収集"
+
+msgid ""
+"This theme does not collect personal data by default. However, if you enable "
+"optional features, we may collect:"
+msgstr ""
+"このテーマは、デフォルトでは個人データを収集しません。 ただし、オプション機能"
+"をイネーブルにすると、次の情報が収集される場合があります:"
+
+msgid "Contact information (if provided in forms)"
+msgstr "連絡先情報（フォームで提供されている場合）"
+
+msgid "Cookies for website functionality"
+msgstr "2. 情報活用方法"
+
+msgid "2. How We Use Your Information"
+msgstr "2. 情報活用方法"
+
+msgid ""
+"Any data collected is used solely to improve user experience and website "
+"functionality."
+msgstr ""
+"収集されたすべてのデータは、ユーザーエクスペリエンスとWebサイトの機能を向上さ"
+"せるためだけに使用されます。"
+
+msgid "3. Cookies"
+msgstr "3. クッキー"
+
+msgid ""
+"Our website may use cookies for analytics and functionality. You can disable "
+"cookies in your browser settings."
+msgstr ""
+"当社のウェブサイトは、分析と機能性のためにクッキーを使用する場合があります。 "
+"ブラウザの設定でクッキーを無効にすることができます。"
+
+msgid "4. Third-Party Services"
+msgstr "4. サードパーティサービス"
+
+msgid ""
+"If this theme integrates third-party services, they may collect data. Please "
+"refer to their privacy policies."
+msgstr ""
+"このテーマがサードパーティのサービスを統合する場合、データを収集することがで"
+"きます。 プライバシーポリシーを参照します。"
+
+msgid "5. Your Rights"
+msgstr "5. 権利"
+
+msgid ""
+"You have the right to request access, correction, or deletion of any "
+"personal data collected."
+msgstr ""
+"お客様は、収集された個人データへのアクセス、訂正、または削除を要求する権利が"
+"あります。"
+
+msgid "6. Contact Us"
+msgstr "6. 連絡先"
+
+msgid "If you have any questions about this privacy policy, contact us at:"
+msgstr ""
+"このプライバシーポリシーに関するご質問は、次の URL からお問い合わせいただけま"
+"す:"
